@@ -1,8 +1,7 @@
 A React Native Expo Restaurant Application
 
-For this application I used React Native Expo because it was my first react native 
-project, I realized this application with 5 different sections: Home, Menu, News, 
-Info and Gallery, For the bottom tab navigation I used the <a href='https://reactnavigation.org/'>react-navigation</a> library.
+For this application I used React Native Expo, I realized 5 different sections: 
+Home, Menu, News, Info and Gallery, For the bottom tab navigation I used the <a href='https://reactnavigation.org/'>react-navigation</a> library.
 
 Here is the link to download the application for android:
 
